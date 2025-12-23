@@ -1,0 +1,40 @@
+# ------------------------
+# IDE / Editor Dateien
+# ------------------------
+*.iml
+.idea/
+.vscode/
+
+# ------------------------
+# Python Bytecode / Cache
+# ------------------------
+__pycache__/
+*.py[cod]
+
+# ------------------------
+# Virtuelle Umgebungen
+# ------------------------
+venv/
+env/
+*.env
+
+# ------------------------
+# Temporäre / experimentelle Dateien
+# ------------------------
+experiment_*.py
+temp_*.py
+*.tmp
+*.log
+
+# ------------------------
+# JSON Dateien, die nur temporär sind
+# ------------------------
+scraper.json
+
+# ------------------------
+# Betriebssystem / Editor temporär
+# ------------------------
+.DS_Store
+Thumbs.db
+
+
